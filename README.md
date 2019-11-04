@@ -6,8 +6,13 @@ This project is based on the section of the following github repository.
 
 https://github.com/udacity/deep-reinforcement-learning
 
-### Game
+### Environment
 
+
+![Reacher](https://video.udacity-data.com/topher/2018/June/5b1ea778_reacher/reacher.gif)
+
+
+Please refer to [Reacher](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#reacher) for details.
 
 ### Reward
 
