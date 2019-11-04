@@ -20,17 +20,9 @@
 ### The model architectures for neural networks
 
 #### Base
-- Linear(state_size, fc1_units)
-- Linear(fc1_units, fc2_units)
-- Linear(fc2_units, action_size)
 
-#### Dueling Q network
+#### with Batch Normalization
 
-- Linear(in:state size, out:64)
-- Linear(in:64, out:64)
-  - Value Function: Linear(64, action size)
-  - Advantage Function: Linear(64, 1)
-- Output = (value) + (advantage) - (the mean of advantage)
 
 ## Plot of Rewards
 
