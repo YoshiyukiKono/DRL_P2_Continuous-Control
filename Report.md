@@ -2,7 +2,7 @@
 
 ## Learning Algorithm
 
-- D
+- Deep Deterministic Policy Gradients (DDPG)
 
 
 #### hyperparameters
