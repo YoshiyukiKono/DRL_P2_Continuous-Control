@@ -4,7 +4,7 @@
 
 - Deep Deterministic Policy Gradients (DDPG)
 
-#### hyperparameters
+### hyperparameters
 
 |  Name  |  Value  |　|
 | ---- | ---- | ---- |
@@ -31,13 +31,13 @@
 - Linear(in:state size, out:256)
 - Linear(in:256 + action size, out:256)
 - Linear(in:256, out:256)
-- Linear(in: 256, out:1)
+- Linear(in:256, out:1)
 
 ## Plot of Rewards
 
 - the agent is able to receive an average reward (over 100 episodes, and over all 20 agents) of at least +30.
 
-### The number of episodes needed to solve the environment.
+## The number of episodes needed to solve the environment.
 
 |    |  The number of episode  | Average score |
 | ---- | ---- | ---- |
