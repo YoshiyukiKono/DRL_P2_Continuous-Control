@@ -37,6 +37,8 @@
 
 - the agent is able to receive an average reward (over 100 episodes, and over all 20 agents) of at least +30.
 
+Refer to [Continuous_Control_multi.ipynb](./Continuous_Control_multi.ipynb)
+
 ## The number of episodes needed to solve the environment.
 
 |    |  The number of episode  | Average score |
